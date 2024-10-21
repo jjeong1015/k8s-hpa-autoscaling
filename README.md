@@ -1,5 +1,5 @@
 # k8s-hpa-autoscaling
-Minikube 환경에서 Docker로 컨테이너화된 Spring Boot 애플리케이션을 Kubernetes의 HPA를 사용하여 자동 확장하는 프로젝트
+Docker 이미지 생성부터 Kubernetes HPA(Horizontal Pod Autoscaler) 설정까지의 과정을 포함합니다.
 
 ### 🚀 1. 시스템 준비 및 Docker 설치
 ```bash
