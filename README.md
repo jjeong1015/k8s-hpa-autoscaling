@@ -1,6 +1,32 @@
 # k8s-hpa-autoscaling
 Docker 이미지 생성부터 Kubernetes HPA(Horizontal Pod Autoscaler) 설정까지의 과정을 포함합니다.
 
+![367c43cf_1](https://github.com/user-attachments/assets/6facf26b-4794-47eb-9a6a-6e110785d972)
+![367c43cf_2](https://github.com/user-attachments/assets/be349f0b-5b9a-4cfc-b8a4-47da04ee8e04)
+![367c43cf_3](https://github.com/user-attachments/assets/be9ca95b-8487-42c2-bbef-c3fed06890e7)
+![367c43cf_4](https://github.com/user-attachments/assets/dd5e0371-11ad-4cfb-a002-0f33cdb27761)
+![367c43cf_5](https://github.com/user-attachments/assets/93330cd6-40a5-4c9a-a641-6afd34d3cb11)
+![367c43cf_6](https://github.com/user-attachments/assets/e77766a1-6989-417b-969f-1f63cc340925)
+![367c43cf_7](https://github.com/user-attachments/assets/b9ff06c0-d709-4861-a032-634ebe62dcef)
+![367c43cf_8](https://github.com/user-attachments/assets/080d23f8-6283-45f1-97e2-753a63a8c503)
+![367c43cf_9](https://github.com/user-attachments/assets/fc87c905-667b-4516-8c66-36efb3ba0581)
+![367c43cf_10](https://github.com/user-attachments/assets/daaa7be1-3327-4d70-ab52-b3c416dcb801)
+![367c43cf_11](https://github.com/user-attachments/assets/abe26066-9def-4706-a56e-0fb0914dec85)
+![367c43cf_12](https://github.com/user-attachments/assets/0e438561-dc1f-4e51-9900-0eb9b0849239)
+![367c43cf_13](https://github.com/user-attachments/assets/dffbea5a-d40a-421a-8fb7-d9de5954fd77)
+![367c43cf_14](https://github.com/user-attachments/assets/586883d0-a9f8-4310-a4bd-4b88c1b530ba)
+![367c43cf_15](https://github.com/user-attachments/assets/68c7d7df-0dae-4e78-b74e-f334de75fe5e)
+![367c43cf_16](https://github.com/user-attachments/assets/c74f5e11-402d-4756-9da8-861a91e1550d)
+![367c43cf_17](https://github.com/user-attachments/assets/6a55d22c-df3f-4440-94ae-46d17e59b869)
+![367c43cf_18](https://github.com/user-attachments/assets/847e914e-c3ef-476c-ae5d-ae28c4bcd2e4)
+![367c43cf_19](https://github.com/user-attachments/assets/c01b3a24-6d35-4d5f-aacb-54d0ce9b0f47)
+![367c43cf_20](https://github.com/user-attachments/assets/7a6d30f3-b17f-496a-b59b-88c7cc49b22a)
+![367c43cf_21](https://github.com/user-attachments/assets/813faabc-08e1-4514-a643-7be24261018f)
+![367c43cf_22](https://github.com/user-attachments/assets/b055976a-d5b2-4b41-b18d-ad0903cb77ca)
+![367c43cf_23](https://github.com/user-attachments/assets/37e284ea-caa6-47df-895a-18d72ff98ad3)
+![367c43cf_24](https://github.com/user-attachments/assets/b266429a-70d5-4f8c-a3f7-71b0d3d521a0)
+![367c43cf_25](https://github.com/user-attachments/assets/f03f1752-8cf7-45a7-bcb0-608488ba0f65)
+
 ### 🚀 1. 시스템 준비 및 Docker 설치
 ```bash
 # 1. 패키지 인덱스 업데이트
