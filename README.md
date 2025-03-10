@@ -1,6 +1,9 @@
 # k8s-hpa-autoscaling
 Docker 이미지 생성부터 Kubernetes HPA(Horizontal Pod Autoscaler) 설정까지의 과정을 포함합니다.
 
+## 기술 스택
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"><img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=black"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=black"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
+
 ![HPA-01](https://github.com/user-attachments/assets/03728b1d-48ed-45b8-925c-64ed207f627b)
 ![HPA-02](https://github.com/user-attachments/assets/eef8d283-b27b-43a8-90a4-e846818922ae)
 ![HPA-03](https://github.com/user-attachments/assets/1a487923-4991-420e-acf6-a27b42fedc44)
